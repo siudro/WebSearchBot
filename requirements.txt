@@ -1,3 +1,5 @@
 streamlit
 openai
 nest_asyncio
+phidata
+duckduckgo-search
